@@ -1,5 +1,8 @@
 # Hormozi Advisor Knowledge Base (unofficial)
 
+> **Not endorsed by Alex Hormozi.** This is an unofficial, fan-made project with no affiliation to Alex Hormozi, Leila Hormozi, or Acquisition.com. All ideas belong to their original creators; every note links its source video.
+
+
 An **unofficial, fan-made** distillation of **470 public Alex Hormozi YouTube videos** into decision playbooks with citations. It's built so you, or an AI bot, can make business decisions the way Hormozi teaches.
 
 > Not affiliated with Alex Hormozi or Acquisition.com. All ideas belong to him. Every note links its source video. See [NOTICE.md](NOTICE.md).
